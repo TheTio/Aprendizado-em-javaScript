@@ -1,0 +1,32 @@
+body{
+    background: #c518187c;
+    font: normal 15pt arial;
+}
+
+header{
+    color:white;
+    text-align: center;
+}
+
+section{
+    background: white; /*Cor de Fundo*/
+    border-radius: 10px; /*Arredondamento das Bordas*/
+    padding: 15px; /*Sobreposição branca na tela*/
+    width: 500px; /*Espaçamento Lateral*/
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0.363);
+}
+
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+div{
+    text-align: center;
+   
+}
+div#foto{
+    font:normal 30px italic;
+    margin-top: 8px;
+}
