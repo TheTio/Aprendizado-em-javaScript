@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(39, 38, 38);
+    font: normal 15px arial;
+    color: white;
+
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    font: normal 15px arial;
+    color: black;
+    
+}
+
+footer{
+    text-align: center;
+    font: normal 18px italic;
+}
+
+input{
+    margin-top: 10px;
+}
+
+input#idade{
+    border-radius: 10px;
+}
+
+input#verificar{
+    border-radius: 8px;
+    background: transparent;
+    font: normal 15px arial;
+    margin-left: 15px;
+    border-style: solid;
+}
+
+div{
+    font: normal 18px arial;
+    margin-top: 10px;
+    text-align: center;
+}
